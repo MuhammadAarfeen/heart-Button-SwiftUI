@@ -14,6 +14,7 @@
 		9FCBB18528949B14003C8CB1 /* AnimationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FCBB18428949B14003C8CB1 /* AnimationsTests.swift */; };
 		9FCBB18F28949B14003C8CB1 /* AnimationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FCBB18E28949B14003C8CB1 /* AnimationsUITests.swift */; };
 		9FCBB19128949B14003C8CB1 /* AnimationsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FCBB19028949B14003C8CB1 /* AnimationsUITestsLaunchTests.swift */; };
+		9FCBB1A228950F78003C8CB1 /* HeartBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FCBB1A128950F78003C8CB1 /* HeartBtn.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		9FCBB18A28949B14003C8CB1 /* AnimationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FCBB18E28949B14003C8CB1 /* AnimationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsUITests.swift; sourceTree = "<group>"; };
 		9FCBB19028949B14003C8CB1 /* AnimationsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9FCBB1A128950F78003C8CB1 /* HeartBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartBtn.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				9FCBB17528949B12003C8CB1 /* ContentView.swift */,
 				9FCBB17728949B13003C8CB1 /* Assets.xcassets */,
 				9FCBB17928949B13003C8CB1 /* Preview Content */,
+				9FCBB1A128950F78003C8CB1 /* HeartBtn.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FCBB1A228950F78003C8CB1 /* HeartBtn.swift in Sources */,
 				9FCBB17628949B12003C8CB1 /* ContentView.swift in Sources */,
 				9FCBB17428949B12003C8CB1 /* AnimationsApp.swift in Sources */,
 			);
